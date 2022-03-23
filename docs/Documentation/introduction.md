@@ -20,7 +20,7 @@ This project is about:
 
 ### Proposed Architecture
 
-![proposed architecture](https://raw.githubusercontent.com/lakshay-nasa/how-to-dok/main/static/how_to_dok_proposed_architecture.png)
+![proposed architecture](https://raw.githubusercontent.com/dokc/how-to-dok/main/static/how_to_dok_proposed_architecture.png)
 
 ### Components
 
